@@ -1,2 +1,2 @@
 # privacy
-هذا التطبيق للاستخدام الشخصي فقط. يصل إلى نماذج Google الخاصة بصاحبه، ولا يجمع بيانات ولا يشاركها مع أي جهة.
+This application is for personal use only. It accesses the owner's Google Forms and does not collect or share data with any third party.
